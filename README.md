@@ -214,12 +214,6 @@ See the Voice Game Master in action as we explore the mystery at Hawkins Middle 
 - Creating engaging D&D-style experiences with AI
 - Integrating Murf Falcon TTS for natural-sounding narration
 
-## 🔗 Links
-
-- **GitHub**: [Gangadhar-NG-CODER](https://github.com/Gangadhar-NG-CODER)
-- **LinkedIn Post**: [Coming Soon]
-- **Challenge**: [Murf AI Voice Agents Challenge](https://murf.ai)
-
 ## 🏆 Challenge Progress
 
 - ✅ DAY 4: Teach-the-Tutor Active Recall Coach
